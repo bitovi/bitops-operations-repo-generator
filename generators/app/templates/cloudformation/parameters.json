@@ -1,3 +1,7 @@
-{
-    "BucketName": "Bitops S3 Bucket"
-}
+[
+    {
+      "ParameterKey": "BucketName",
+      "ParameterValue": "bitops-s3-bucket",
+      "UsePreviousValue": false
+    }
+]
