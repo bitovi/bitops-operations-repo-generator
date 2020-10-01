@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Bitovi",
+      "authorEmail": "contact@bitovi.com",
+      "authorUrl": "https://www.bitovi.com/"
+    }
+  }
+}
