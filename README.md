@@ -1,4 +1,5 @@
-# generator-bitops [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+# generator-bitops 
+[![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
 > Skaffolding for an operations repo built to work with https://github.com/bitovi/bitops
 
 ## Installation
