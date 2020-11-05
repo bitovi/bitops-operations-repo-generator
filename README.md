@@ -8,7 +8,7 @@ First, install [Yeoman](http://yeoman.io) and generator-bitops using [npm](https
 
 ```bash
 npm install -g yo
-npm install -g generator-bitops
+npm install -g @bitovi/generator-bitops
 ```
 
 Then generate your new project:
@@ -16,7 +16,7 @@ Then generate your new project:
 ```bash
 mkdir -p my-operations-repo
 cd my-operations-repo
-yo bitops
+yo @bitovi/bitops
 ```
 
 ### Installing from source

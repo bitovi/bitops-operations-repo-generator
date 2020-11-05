@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "I am a before terraform lifecycle script!"
+echo "I am a before ansible lifecycle script!"

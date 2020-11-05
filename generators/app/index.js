@@ -13,7 +13,7 @@ module.exports = class extends Generator {
       {
         type: 'input',
         name: 'appName',
-        message: 'What is the name of your application (e.g. serviceA or production)?',
+        message: 'What is the name of your environment (e.g. serviceA or production)?',
         default: 'my-app'
       },
       {
