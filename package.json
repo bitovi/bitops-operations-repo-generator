@@ -1,6 +1,6 @@
 {
   "name": "@bitovi/generator-bitops",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Skaffolding for an operations repo built to work with https://github.com/bitovi/bitops",
   "homepage": "bitovi.github.io/bitops/",
   "author": {
