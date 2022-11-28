@@ -1,3 +1,5 @@
+# https://github.com/bitops-plugins/ansible/
 ansible:
-    cli: {}
+    cli:
+        main-playbook: playbook.yaml
     options: {}

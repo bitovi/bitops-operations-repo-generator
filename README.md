@@ -1,5 +1,5 @@
-# generator-bitops 
-[![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+# generator-bitops
+[![NPM version][npm-image]][npm-url]
 > Skaffolding for an operations repo built to work with https://github.com/bitovi/bitops
 
 ## Installation
@@ -28,9 +28,5 @@ Instead of installing `generator-bitops` using npm, you can clone the github rep
 MIT © [Bitovi](https://www.bitovi.com/)
 
 
-[npm-image]: https://badge.fury.io/js/generator-bitops.svg
-[npm-url]: https://npmjs.org/package/generator-bitops
-[travis-image]: https://travis-ci.com/bitovi/generator-bitops.svg?branch=master
-[travis-url]: https://travis-ci.com/bitovi/generator-bitops
-[daviddm-image]: https://david-dm.org/bitovi/generator-bitops.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/bitovi/generator-bitops
+[npm-image]: https://badge.fury.io/js/@bitovi%2Fgenerator-bitops.svg
+[npm-url]: https://www.npmjs.com/package/@bitovi/generator-bitops

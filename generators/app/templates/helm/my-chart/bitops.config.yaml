@@ -1,3 +1,4 @@
+# https://github.com/bitops-plugins/helm/
 helm:
   cli:
     namespace: bitops
@@ -9,7 +10,7 @@ helm:
     atomic: true
   options:
     release-name: bitops-release
-    kubeconfig:
+    k8s:
       fetch:
-        enabled: true
+        kubeconfig: true
         cluster-name: bitops-test-opscruise-ekscluster
